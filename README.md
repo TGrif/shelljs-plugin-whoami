@@ -7,8 +7,7 @@ A [ShellJS](https://github.com/shelljs/shelljs) plugin for the `whoami` command.
 ## Installation
 
 ```bash
-$ npm install --save shelljs
-$ npm install --save shelljs-plugin-whoami
+$ npm install shelljs-plugin-whoami
 ```
 
 ## Usage
