@@ -1,6 +1,6 @@
 /**
 * shelljs-plugin-whoami
-* TGrif 2018 - direct-shoot.com
+* TGrif 2018
 * License MIT
 *
 */
