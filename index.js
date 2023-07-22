@@ -15,7 +15,7 @@ function whoami(options) {
 }
 
 plugin.register('whoami', whoami, {
-  cmdOptions: {},
+  cmdOptions: {}
 });
 
 exports.whoami = whoami;
